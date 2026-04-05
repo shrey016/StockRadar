@@ -18,6 +18,7 @@ An autonomous AI-powered tool that scans the latest Indian stock market news and
 
 ---
 
+## StockRadar Screenshot
 ![StockRadar Screenshot](assets/screenshot.png)
 
 ## 🗂 Project Structure
